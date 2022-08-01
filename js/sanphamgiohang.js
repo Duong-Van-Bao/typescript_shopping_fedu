@@ -1,5 +1,5 @@
 "use strict";
-exports.__esModule = true;
+Object.defineProperty(exports, "__esModule", { value: true });
 exports.SanPhamGioHang = void 0;
 var SanPhamGioHang = /** @class */ (function () {
     function SanPhamGioHang(sanpham, soluong) {
